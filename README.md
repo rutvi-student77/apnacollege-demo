@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first gitresponsity.
 <br>
-Author-rutvi (apna collage)
+Author-rutvi (apna collages)
